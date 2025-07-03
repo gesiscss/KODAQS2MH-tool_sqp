@@ -191,3 +191,5 @@ Despite its advantages, SQP has some limitations. Its dependence on user coding 
 
 Looking ahead, the potential for SQP’s development is promising. Expanding the database to include more languages, regions, and survey design choices would enhance its applicability, particularly in underrepresented contexts. Incorporating large language models to automate parts of the coding process could alleviate the cognitive load on users and improve consistency. Additionally, integrating SQP with newer survey methodologies and adaptive designs, along with continuously updating its algorithm to reflect advancements in survey research, will help maintain its relevance in a rapidly evolving field. By addressing these challenges and embracing innovation, SQP can continue to be an indispensable tool for survey researchers around the world. 
 
+Note: This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
