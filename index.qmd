@@ -50,7 +50,7 @@ SQP has evolved into a comprehensive tool that supports survey researchers in de
 ::: {style="text-align: justify;"}
 
 The decisions made in designing survey questions significantly impact respondents’ answer behavior, as variations in question formulation, response scales, and contextual features influence how individuals interpret and respond to survey items. For instance, @saris2022 illustrate this with an example of measuring trust in the economy. They compare the effects of three different response scale designs on the question: 
-
+:::
 ::: {.callout-tip}
 ## Examples
 
@@ -86,7 +86,7 @@ The results revealed significant differences in response distributions and corre
 Bipolar scales emphasize contrasts between extremes, potentially encouraging more polarized responses, while unipolar scales direct attention to a single dimension, which may reduce polarization but introduce other biases. In contrast, numeric scales convey a sense of precision and neutrality yet require respondents to map their attitudes onto a numeric continuum. These subtle but impactful differences highlight the critical role of thoughtful survey design, especially for subjective constructs like trust or satisfaction [@saris2022]. 
 
 Therefore, SQP is essential for ensuring high-quality survey research, as it systematically addresses the impact of question design on measurement outcomes. By predicting the reliability and validity of survey questions, SQP helps researchers identify potential biases and unintended effects introduced by variations in scales, wording, or structure. For example, as demonstrated by differences between numeric, bipolar, and unipolar scales, minor design changes can profoundly influence respondents’ cognitive processing and, consequently, the data collected. This is particularly critical for subjective measures like trust, satisfaction, or attitudes, where nuanced design decisions can significantly affect data quality and the validity of subsequent analyses.
-
+::::::
 ## Introduction to the Coding Process in SQP
 
 The <a href="https://sqp.gesis.org/" target="_blank">SQP Website</a> provides researchers with a comprehensive tool to evaluate and enhance the quality of survey questions systematically. At the heart of this process lies the coding of survey items, where specific characteristics of questions are analyzed to generate predictions about their reliability and validity. The SQP website offers an intuitive interface that facilitates both the coding process and access to its extensive database of survey items. 
@@ -101,7 +101,7 @@ The database allows researchers to explore existing items, apply filters, and us
 As mentioned above, the platform further enables researchers to contribute to the database with new survey items by entering key details, such as the question text, response options, and metadata about the study. After adding an item, users proceed to the coding stage, where they thoroughly analyze the survey question’s characteristics. This process involves evaluating features like the response scale, linguistic complexity, and the formulation of the request for an answer. 
 
 
-:::{.callout-note collapse='true'}
+:::{.callout-note collapse='true' style="margin: 1.5rem 0 1.5rem 2rem; cursor: pointer;"}
 ## List of Characteristics
 
 | **Variable Name** | **Description** |
@@ -163,7 +163,7 @@ Using SQP, both survey items were coded to capture their design characteristics,
 SQP generated quality predictions for both types of questions, highlighting the impact of various design choices. The numeric rating scale question achieved a reliability score of 0.811 and a validity score of *0.829*, resulting in an overall quality score of *0.673*. In contrast, the 5-point Likert scale question received a reliability score of *0.667* and a validity score of *0.826*, leading to an overall quality score of *0.552*. These results demonstrate that while both scales have similar validity scores, their reliability scores differ significantly, resulting in better overall quality for the 11-point scale. This comparison underscores the importance of aligning question design with research objectives to optimize data quality.
 
 
-:::{.callout-note collapse="true" title="A Step-by-Step Guide to Hands-on Application"}
+:::{.callout-note collapse="true" title="A Step-by-Step Guide to Hands-on Application" style="margin: 1.5rem 0 1.5rem 2rem; cursor: pointer;"}
 
 **Step 1:** To begin creating your own quality prediction, locate the question in the survey item list. Simply click the pen icon next to the relevant question to open the coding interface. This will allow you to code the question’s characteristics and predict its measurement quality.
 
